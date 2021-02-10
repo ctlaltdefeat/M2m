@@ -1,0 +1,8 @@
+*.npy
+*.pt
+*.pyc
+logs/
+adult*
+*.pkl
+*.npz
+.vscode/
